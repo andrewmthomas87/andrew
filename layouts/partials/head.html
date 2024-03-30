@@ -1,0 +1,19 @@
+<meta charset="utf-8" />
+<title>
+  {{ if .Page.IsHome }}
+    {{ .Site.Title }}
+  {{ else }}
+    <!-- prettier-ignore -->
+    {{ .Title }} – {{ .Site.Title }}
+  {{ end }}
+</title>
+<link
+  href="https://api.fontshare.com/v2/css?f[]=gambetta@1,2&display=swap"
+  rel="stylesheet"
+/>
+{{ $css := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=1"
+/>
