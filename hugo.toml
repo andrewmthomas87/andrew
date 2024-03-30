@@ -1,3 +1,6 @@
 baseURL = 'https://andrewt.io/'
 languageCode = 'en-us'
 title = 'Andrew Thomas'
+
+[permalinks]
+pages = '/:slugorfilename'
