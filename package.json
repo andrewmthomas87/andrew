@@ -1,0 +1,8 @@
+{
+  "name": "andrew",
+  "private": "true",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}
