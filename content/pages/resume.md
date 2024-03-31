@@ -16,7 +16,6 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **Location** | Boulder, Colorado                                                |
 
 </section>
-
 <section>
 
 ## Skills
@@ -33,7 +32,6 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **AWS**                   | EC2, Lambda, Kinesis, S3, Cognito, DynamoDB                                                      |
 
 </section>
-
 <section>
 
 ## Education
@@ -48,7 +46,6 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **Notable Courses** | Data Structures, Algorithms, Networking, Programming Languages, Compiler Construction, Code Analysis & Transformation, Cryptography, Artificial Intelligence, Machine Learning, Knowledge Representation & Reasoning, Game Development, Scalable Software Architectures, Cyber-Physical Systems |
 
 </section>
-
 <section>
 
 ## Professional Experience
@@ -151,7 +148,6 @@ Note: I left Viget in Aug. 2023 to return to Northwestern, having previously wit
 - Debugged and implemented fixes for bugs in spreadsheet web application using JavaScript and Angular.
 
 </section>
-
 <section>
 
 ## Extracurricular
@@ -169,7 +165,6 @@ Note: I left Viget in Aug. 2023 to return to Northwestern, having previously wit
 - Mentored the app software team; taught students basic development skills like git and bash as well as full stack development using React, React Native, Node.js, and relational databases.
 
 </section>
-
 <section>
 
 ## Projects
@@ -178,20 +173,20 @@ Note: I left Viget in Aug. 2023 to return to Northwestern, having previously wit
 
 An AI-powered news broadcast; gathers articles for trending topics, scrapes article text and images, summarizes articles from several sources, merges summaries, generates a news broadcast including summary and relevant guest take sections, integrates with an AI avatar to deliver broadcast, provides web application to run, monitor, and customize each step; using TypeScript, SvelteKit, Bulma, Prisma, and OpenAI GPT LLMs.
 
-- [github.com/andrewmthomas87/newscast](https://github.com/andrewmthomas87/newscast)
+- [Source](https://github.com/andrewmthomas87/newscast)
 
 ### arcade
 
 A collection of multiplayer web games inspired by Jackbox Games and NYT Games using TypeScript, SvelteKit, Bulma, Prisma, and OpenAI GPT LLMs.
 
 - [arcade.andrewt.cloud](https://arcade.andrewt.cloud)
-- [github.com/andrewmthomas87/arcade](https://github.com/andrewmthomas87/arcade)
+- [Source](https://github.com/andrewmthomas87/arcade)
 
 ### frcbrackets
 
 A web application for predicting outcomes for FIRST Robotics Competition events integrated with The Blue Alliance API and implementing automated scoring using TypeScript, Remix, MUI, Prisma, and nodemailer.
 
-- [github.com/andrewmthomas87/frcbrackets](https://github.com/andrewmthomas87/frcbrackets)
+- [Source](https://github.com/andrewmthomas87/frcbrackets)
 
 ### News search engine
 
