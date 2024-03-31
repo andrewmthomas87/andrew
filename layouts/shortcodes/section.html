@@ -1,7 +1,1 @@
-<section>
-  {{ if (.Get "single") }}
-    <p>{{ .Inner | markdownify }}</p>
-  {{ else }}
-    {{ .Inner | markdownify }}
-  {{ end }}
-</section>
+<section>{{ .Inner }}</section>

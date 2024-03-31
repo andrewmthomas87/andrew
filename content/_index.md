@@ -1,7 +1,4 @@
-+++
-+++
-
-{{< section >}}
+<section>
 
 # Andrew Thomas
 
@@ -13,4 +10,4 @@ Read [more about me][1], take a look at my [resume][2], browse my [index of link
 [2]: /resume
 [3]: /links
 
-{{< /section >}}
+</section>

@@ -3,7 +3,7 @@ title = 'Resume'
 date = 2024-03-30T13:25:48-06:00
 +++
 
-{{< section >}}
+<section>
 
 ## Introduction
 
@@ -15,9 +15,9 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **Email**    | [andrewmthomas87@gmail.com](mailto:andrewmthomas87@gmail.com)    |
 | **Location** | Boulder, Colorado                                                |
 
-{{< /section >}}
+</section>
 
-{{< section >}}
+<section>
 
 ## Skills
 
@@ -32,9 +32,9 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **Tools**                 | Vite, webpack, git, Docker, Prometheus, caddy                                                    |
 | **AWS**                   | EC2, Lambda, Kinesis, S3, Cognito, DynamoDB                                                      |
 
-{{< /section >}}
+</section>
 
-{{< section >}}
+<section>
 
 ## Education
 
@@ -47,9 +47,9 @@ Andrew is a software engineer with a B.S. in Computer Science from Northwestern 
 | **Dates**           | 2017-2020, 2023-2024                                                                                                                                                                                                                                                                            |
 | **Notable Courses** | Data Structures, Algorithms, Networking, Programming Languages, Compiler Construction, Code Analysis & Transformation, Cryptography, Artificial Intelligence, Machine Learning, Knowledge Representation & Reasoning, Game Development, Scalable Software Architectures, Cyber-Physical Systems |
 
-{{< /section >}}
+</section>
 
-{{< section >}}
+<section>
 
 ## Professional Experience
 
@@ -150,9 +150,9 @@ Note: I left Viget in Aug. 2023 to return to Northwestern, having previously wit
 - Worked with a senior developer to refactor modal wizard components to transition away from Angular.
 - Debugged and implemented fixes for bugs in spreadsheet web application using JavaScript and Angular.
 
-{{< /section >}}
+</section>
 
-{{< section >}}
+<section>
 
 ## Extracurricular
 
@@ -168,9 +168,9 @@ Note: I left Viget in Aug. 2023 to return to Northwestern, having previously wit
 - Mentored the robot software team; taught students Java programming, basic control theory, path planning algorithms, motion profiling, computer vision, and object-oriented design including S.O.L.I.D. principles.
 - Mentored the app software team; taught students basic development skills like git and bash as well as full stack development using React, React Native, Node.js, and relational databases.
 
-{{< /section >}}
+</section>
 
-{{< section >}}
+<section>
 
 ## Projects
 
@@ -197,4 +197,4 @@ A web application for predicting outcomes for FIRST Robotics Competition events 
 
 Ingests articles from the Common Crawl project datasets and implements a simple search engine using Java, EC2, Lambda, SQS, Elasticsearch, and Tomcat.
 
-{{< /section >}}
+</section>

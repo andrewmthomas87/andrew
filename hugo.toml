@@ -2,5 +2,8 @@ baseURL = 'https://andrewt.io/'
 languageCode = 'en-us'
 title = 'Andrew Thomas'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [permalinks]
 pages = '/:slugorfilename'
