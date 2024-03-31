@@ -1,3 +1,22 @@
+strong {
+  font-weight: 600;
+}
+
+table {
+  font-size: 1.1rem;
+  border-collapse: collapse;
+}
+
+table td {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+table tr:first-child td {
+  border-top: 1px solid #ccc;
+}
+
 /* Adapted from Tufte CSS (https://github.com/edwardtufte/tufte-css) */
 
 /* Tufte CSS styles */
