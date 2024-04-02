@@ -1,0 +1,12 @@
+{{ $path := .Get "path" }}
+{{ $process := .Get "process" }}
+{{ $marginnote := .Get "marginnote" }}
+{{ $image := resources.Get $path | images.Filter (images.Process $process) }}
+
+
+<figure>
+  <label for="mn-{{ $path }}" class="margin-toggle">[&ndash;]</label>
+  <input type="checkbox" id="mn-{{ $path }}" class="margin-toggle" checked />
+  <span class="marginnote">{{ $marginnote | markdownify }}</span>
+  <img src="{{ $image.RelPermalink }}" />
+</figure>
