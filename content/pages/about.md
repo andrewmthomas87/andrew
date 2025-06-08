@@ -31,8 +31,8 @@ Robotics][3]. The relationships I developed with mentors on the team grew into a
 opportunities. First, I interned for Workday on the team from [freshly acquired Gridcraft][4]
 <label for="sn-workday" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-workday" class="margin-toggle" />
-<span class="sidenote">Workday's stock price has tripled since this acquisition.</span>, a startup co-founded by
-Up-A-Creek mentor Terry Olkin. Two years later, Terry co-founded Left Hand Robotics, aiming to build autonomous robots
+<span class="sidenote">Workday's stock price has tripled since this acquisition.</span>, a startup co-founded by an
+Up-A-Creek mentor. Two years later, that same mentor co-founded Left Hand Robotics, aiming to build autonomous robots
 for outdoor labor-intensive tasks. I worked for Left Hand Robotics on-and-off starting a handful of months after its
 conception up to [its acquisition by The Toro Company][5].
 
